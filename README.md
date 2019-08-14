@@ -1,2 +1,2 @@
-# Hospot-Phare
-Hospot-Phare
+# Hotspot-Phare
+Hotspot-Phare

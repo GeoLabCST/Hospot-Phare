@@ -28,7 +28,7 @@ export class AppComponent {
       };
 
       window['plugins'].OneSignal
-        .startInit('79500f59-2cca-4a08-bfff-7d36712b6ec8', 'project-543437587024')
+        .startInit('c2732646-0e7a-4ea3-a53c-9409d2cfda7d', 'project-543437587024')
         .handleNotificationOpened(notificationOpenedCallback)
         .endInit();
     });

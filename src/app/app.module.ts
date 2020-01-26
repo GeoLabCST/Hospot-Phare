@@ -16,6 +16,7 @@ import { AmphoePageModule } from './amphoe/amphoe.module';
 import { TambonPageModule } from './tambon/tambon.module';
 import { FullmapPageModule } from './fullmap/fullmap.module';
 import { Report7dayPageModule } from './report7day/report7day.module';
+import { RoutingPageModule } from './routing/routing.module';
 
 
 @NgModule({
@@ -29,7 +30,8 @@ import { Report7dayPageModule } from './report7day/report7day.module';
     AmphoePageModule,
     TambonPageModule,
     FullmapPageModule,
-    Report7dayPageModule
+    Report7dayPageModule,
+    RoutingPageModule
   ],
   providers: [
     StatusBar,
